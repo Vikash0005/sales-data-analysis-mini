@@ -32,4 +32,4 @@ sales-data-analysis-mini/
 
  Author
 Vikash Balodi  
-[LinkedIn](https://www.linkedin.com/in/vikash-2160902ba) | [GitHub](https://github.com/vikashbalodi)
+[LinkedIn](https://www.linkedin.com/in/vikash-2160902ba) | [GitHub](https://github.com/Vikash0005)
